@@ -78,3 +78,8 @@ button {
     display: flex;
     align-items: flex-start;
 }
+
+.stats-containers:hover{
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
